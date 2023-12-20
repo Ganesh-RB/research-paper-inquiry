@@ -1,0 +1,48 @@
+.paper-details {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+.paper-card {
+    width: 80%;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.paper-title {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.paper-venue {
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.paper-abstract {
+    color: #666;
+    margin-bottom: 40px;
+    line-height: 1.6;
+}
+
+.paper-authors {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.author-name {
+    margin-left: 10px;
+}
+
+.skeleton{
+    border-radius: 2px;
+}

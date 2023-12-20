@@ -1,0 +1,39 @@
+.author-details {
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+.author-card {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 50px;
+}
+
+.author-name {
+    color: #333;
+    margin-left: 20px;
+}
+
+/* .author-email,
+.author-phone,
+.author-website {
+    color: #666;
+    margin-bottom: 20px;
+} */
+
+.author-papers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.papers-title {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.paper-card {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
