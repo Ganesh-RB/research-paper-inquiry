@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/research-paper-inquiry/static/css/main.a356cb3b.css",
+    "main.js": "/research-paper-inquiry/static/js/main.8c321ee9.js",
+    "static/js/787.2c556115.chunk.js": "/research-paper-inquiry/static/js/787.2c556115.chunk.js",
+    "index.html": "/research-paper-inquiry/index.html",
+    "main.a356cb3b.css.map": "/research-paper-inquiry/static/css/main.a356cb3b.css.map",
+    "main.8c321ee9.js.map": "/research-paper-inquiry/static/js/main.8c321ee9.js.map",
+    "787.2c556115.chunk.js.map": "/research-paper-inquiry/static/js/787.2c556115.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a356cb3b.css",
+    "static/js/main.8c321ee9.js"
+  ]
+}
