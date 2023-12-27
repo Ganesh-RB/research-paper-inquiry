@@ -2,6 +2,7 @@
   "name": "research-paper-inquiry",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ganesh-rb.github.io/research-paper-inquiry",
   "proxy": "http://localhost:8080",
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -17,6 +18,7 @@
     "@testing-library/user-event": "^13.5.0",
     "chart.js": "^4.4.1",
     "framer-motion": "^10.16.15",
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
@@ -25,6 +27,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
